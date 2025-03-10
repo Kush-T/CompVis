@@ -1,0 +1,24 @@
+Column Name,Non-Null Count,Null Count,Percentage Nulls,Unique Values,Most Frequent Value,Frequency of Top Value
+Animal ID,30207,0,0.0,29205,A637086,8
+Animal Name,17904,12303,40.73,9227,*,125
+Animal Type,30207,0,0.0,10,CAT,14165
+Primary Color,30207,0,0.0,82,BLACK,7621
+Secondary Color,14481,15726,52.06,44,WHITE,8460
+Sex,30207,0,0.0,5,Male,6829
+DOB,26441,3766,12.47,5679,6/30/2017,34
+Intake Date,30207,0,0.0,2915,5/3/2023,67
+Intake Condition,30207,0,0.0,17,NORMAL,14104
+Intake Type,30207,0,0.0,12,STRAY,21136
+Intake Subtype,29768,439,1.45,24,OTC,15266
+Reason for Intake,2055,28152,93.2,53,OWNER PROB,448
+Outcome Date,30059,148,0.49,2905,7/25/2019,54
+Crossing,30207,0,0.0,15589,"7700 E SPRING ST, LONG BEACH, CA 90815",303
+Jurisdiction,30206,1,0.0,24,LONG BEACH,25965
+Outcome Type,30051,156,0.52,18,RESCUE,6901
+Outcome Subtype,26685,3522,11.66,233,SPCALA,3803
+latitude,30207,0,0.0,9150,33.8096122,515
+longitude,30207,0,0.0,9044,-118.0826161,515
+intake_is_dead,30207,0,0.0,1,Alive on Intake,30207
+outcome_is_dead,30207,0,0.0,2,False,24121
+was_outcome_alive,30207,0,0.0,2,1,24121
+geopoint,30207,0,0.0,9352,"33.8096122, -118.0826161",515
